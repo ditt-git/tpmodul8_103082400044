@@ -4,6 +4,15 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{36A4EB13-0879-446D-BAB8-7323A00F331B}|tpmodul8_103082400044\\tpmodul8_103082400044.csproj|\\\\mac\\home\\downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A4EB13-0879-446D-BAB8-7323A00F331B}|tpmodul8_103082400044\\tpmodul8_103082400044.csproj|\\\\mac\\home\\downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A4EB13-0879-446D-BAB8-7323A00F331B}|tpmodul8_103082400044\\tpmodul8_103082400044.csproj|\\\\mac\\home\\downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\covidconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A4EB13-0879-446D-BAB8-7323A00F331B}|tpmodul8_103082400044\\tpmodul8_103082400044.csproj|\\\\mac\\home\\downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103082400044\\CovidConfig.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\CovidConfig.cs*",
+              "RelativeToolTip": "tpmodul8_103082400044\\CovidConfig.cs*",
+              "ViewState": "AgIAACAAAACAmZmZmdkjwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:52:17.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CovidConfig.json",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\CovidConfig.json",
+              "RelativeDocumentMoniker": "tpmodul8_103082400044\\CovidConfig.json",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\CovidConfig.json*",
+              "RelativeToolTip": "tpmodul8_103082400044\\CovidConfig.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-26T11:51:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\.gitignore",
+              "RelativeDocumentMoniker": "tpmodul8_103082400044\\.gitignore",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\.gitignore",
+              "RelativeToolTip": "tpmodul8_103082400044\\.gitignore",
+              "ViewState": "AgIAAJoBAAAAamZmZmb0v6ABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-26T11:50:38.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul8_103082400044\\Program.cs",
-              "ToolTip": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\Program.cs",
-              "RelativeToolTip": "tpmodul8_103082400044\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\tpmodul8_103082400044\\tpmodul8_103082400044\\Program.cs*",
+              "RelativeToolTip": "tpmodul8_103082400044\\Program.cs*",
+              "ViewState": "AgIAACwAAAAoMzMzM/MmwDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T11:49:51.108Z",
               "EditorCaption": ""
